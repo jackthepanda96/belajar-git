@@ -2,6 +2,9 @@ Ini tulisan dari branch development
 Kerjakan fitur didalam sini{
     JANGAN SAMPAI KELUAR YA!!
     1. Mulai mengerjakan login
+    2. Bukan Validasi input
+    3. Koneksi dengan database
+    4. Checking dengan data pada database
 
 
 }
