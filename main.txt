@@ -8,6 +8,6 @@ Kerjakan fitur didalam sini{
     5. Finishing fitur login
     6. Done Fitur-Login
     ======================================
-
+    2.1. Mulai mengerjakan homepage
 
 }
