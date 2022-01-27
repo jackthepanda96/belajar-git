@@ -8,7 +8,4 @@ Kerjakan fitur didalam sini{
     5. Finishing fitur login
     6. Done Fitur-Login
     ======================================
-    -- Aturan Baru --
-    -- Kalau mau start project wajib pakai [ ]
-
 }
